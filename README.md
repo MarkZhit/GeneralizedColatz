@@ -1,0 +1,1 @@
+Just messing around with generalized Colatz conjecture
